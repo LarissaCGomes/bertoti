@@ -10,8 +10,7 @@ Modelo Antipattern:
 
 Modelo Pattern:
 
-![image](https://github.com/user-attachments/assets/39bed601-fd37-4211-8cc5-5da2fb920aa5)
 
-
+![image](https://github.com/user-attachments/assets/ed149610-2c26-4c90-b4c2-a06d452f449b)
 
 ---
