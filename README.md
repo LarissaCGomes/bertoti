@@ -3,12 +3,15 @@
 
 Modelo Antipattern:
 
-![Captura de tela 2025-06-01 220924](https://github.com/user-attachments/assets/a9bb5754-076a-435f-b43a-ec6d5de67073)
+![image](https://github.com/user-attachments/assets/0ace85ed-31af-45e4-a6c9-68507dd73807)
+
 
 ---
 
 Modelo Pattern:
 
-![Captura de tela 2025-06-01 221829](https://github.com/user-attachments/assets/5f5c48c9-8a74-48a4-a399-a48e4fee56aa)
+![image](https://github.com/user-attachments/assets/39bed601-fd37-4211-8cc5-5da2fb920aa5)
+
+
 
 ---
