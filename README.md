@@ -17,4 +17,4 @@ Modelo Pattern:
 
 Observer:
 
-![image](https://github.com/user-attachments/assets/8d4ebe22-f6ca-4a2d-a195-cd28c1392e5f)
+![image](https://github.com/user-attachments/assets/c7e79784-ed96-427d-a042-f9aa9d1c2295)
